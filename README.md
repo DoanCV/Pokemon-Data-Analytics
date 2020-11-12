@@ -1,4 +1,4 @@
-# Pokemon Analystics
+# Pokemon Analytics
 This repository hosts two projects, a Singles Battle Predictor notebook and a Market Basket Analysis notebook that objectively resolves the debate around which Pokemon are "broken" or "too powerful" 
 <br>
 ### Pokemon-Battle-Guesser

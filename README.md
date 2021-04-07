@@ -1,5 +1,5 @@
 # Pokemon Analytics 
-This repository hosts a singles battle predictor notebook, a market basket analysis notebook and a Pokemon affinity notebook that objectively resolves the debate around which Pokemon are "broken" or "too powerful" to use in competitive play.
+This repository currently hosts a singles battle predictor notebook.
 <br>
 ### Pokemon Singles Battle Predictor (Currently deploying as Flask application)
 ##### Introduction
@@ -13,4 +13,4 @@ Given the stats of a Pokemon, one can guess the correct type (at least one). The
 
 ### Competitive Pokemon Affinity Tool (Planned)
 ##### Introduction
-Unlike Ash Ketchum, the popular protagonist of the main series animated show, I do not have the benefits of "plot armor", making my team development difficult since it does not revolve around selecting the less developed Pokemon when there are objectively better options. Granted, there are formats that restrict players to the pool of underdeveloped Pokemon. However, the formats that I enjoy the most on Pokemon Showdown are OU, AG, Uber, VGC20XX, BH, Mix & Mega, Monotype and Battle Factory, in no particular order. Only the first four formats truly raise the bar for the strength of team composition. In my experience, given that half of my list requires more developed Pokemon to be competitive, this notebook would be useful for targeting which Pokemon to chose from to not only develop a strong team but also create a novel strategy to win with this team. 
+Unlike Ash Ketchum, the popular protagonist of the main series animated show, I do not have the benefits of "plot armor", making my team development difficult since it does not revolve around selecting the less developed Pokemon when there are objectively better options. Granted, there are formats that restrict players to the pool of underdeveloped Pokemon. However, the formats that I enjoy the most on Pokemon Showdown are OU, AG, Uber, VGC20XX, BH, Mix & Mega, Monotype and Battle Factory, in no particular order. Only the first four formats truly raise the bar for the strength of team composition. In my experience, given that half of my list requires more developed Pokemon to be competitive, this notebook would be useful for targeting which Pokemon to chose from to not only develop a strong team but also create a novel strategy to win with this team. This Pokemon affinity notebook objectively resolves the debate around which Pokemon are "broken" or "too powerful" to use in competitive play.

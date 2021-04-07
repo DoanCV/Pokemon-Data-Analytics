@@ -1,5 +1,5 @@
 # Pokemon Analytics 
-This repository hosts three projects, a singles battle predictor notebook, a market basket analysis notebook and a Pokemon affinity notebook that objectively resolves the debate around which Pokemon are "broken" or "too powerful" to use in competitive play.
+This repository hosts a singles battle predictor notebook, a market basket analysis notebook and a Pokemon affinity notebook that objectively resolves the debate around which Pokemon are "broken" or "too powerful" to use in competitive play.
 <br>
 ### Pokemon Singles Battle Predictor (Currently deploying as Flask application)
 ##### Introduction
